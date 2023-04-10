@@ -1,0 +1,83 @@
+.background {
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    background: #F4EFE8;
+}
+.About-us-title {
+    color: #5B554D;
+    font-family: lazydog;
+    font-weight: 900;
+    width: 464px;
+    height: 115px;
+    position: absolute;
+    top: 184px;
+    left: 488px;
+  }  
+
+.Mission-background-title {
+    position: absolute;
+    width: 512px;
+    height: 59px;
+    left: 176px;
+    top: 353px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 59px;
+    /* identical to box height */
+    text-align: center;
+    color: #818BBC;
+}
+.mission-background-desc {
+    position: absolute;
+    width: 641px;
+    height: 224px;
+    left: 112px;
+    top: 429px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+
+    color: #99A5DE;
+}
+.socials {
+    position: absolute;
+    width: 601px;
+    height: 228px;
+    left: 150px;
+    top: 670px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: right;
+
+    color: #000000;
+}
+.rectangle {
+    position: absolute;
+width: 972px;
+height: 9px;
+left: 378px;
+top: 160px;
+
+background: #A29C93;
+  }
+.Rectangle2 {
+    position: absolute;
+    width: 972px;
+    height: 9px;
+    left: 0px;
+    top: 308px;
+    
+    background: #A29C93;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
